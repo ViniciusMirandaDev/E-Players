@@ -513,6 +513,17 @@ header .fa-bars{
         padding: 0.5em 0;
 
     }
+    .partidas .container{
+        width: 90%;
+        flex-direction: column;
+    }
+    .em_andamento{
+        width: 90%;
+    }
+    .proximas_partidas{
+        width: 90%;
+    }
+    
 
 
 }
